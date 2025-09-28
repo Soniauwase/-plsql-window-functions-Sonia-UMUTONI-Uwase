@@ -208,3 +208,4 @@ A visual representation of tables, their attributes, and relationships using pri
 10. [W3Schools – SQL Window Functions](https://www.w3schools.com/sql/sql_window_functions.asp)  
 11. [TutorialsPoint – SQL Analytic Functions](https://www.tutorialspoint.com/sql/sql-analytic-functions.htm)  
 12. [CEVA Logistics – Rwanda Coffee Exports](https://www.cevalogistics.com/en/news-and-media/newsroom/navigating-rwanda-coffee-exports)  
+
